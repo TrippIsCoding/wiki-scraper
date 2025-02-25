@@ -1,5 +1,5 @@
-# Wikipedia Country Scraper
-Scrapes country populations from Wikipedia into a CSV.
+# Wikipedia Scraper
+Scrapes 237 countries and territories from Wikipedia into a CSV.
 
 ## Usage
 - `python wiki_scraper.py`
